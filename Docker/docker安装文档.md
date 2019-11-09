@@ -47,6 +47,10 @@ sudo yum install -y yum-utils \
  docker run hello-world
  ```
  
+ 4.分配普通用户权限
+ ```
+ usermod -G docker username
+ ```
  
  欢迎进入我的github，[提出建议](https://github.com/fukeli)<br>
  ---

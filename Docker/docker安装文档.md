@@ -51,7 +51,7 @@ sudo yum install -y yum-utils \
  ---
   > `username` 是需要分配执行权限的用户名
  ```
- usermod -G docker `username`
+ usermod -G docker username
  ```
  
  欢迎进入我的github，[提出建议](https://github.com/fukeli)<br>

@@ -1,4 +1,5 @@
-Docker 安装 -- Centos7 <br>
+
+一、在Centos下安装Docker
 ====
 
 1.如果安装过，先卸载残留文件
